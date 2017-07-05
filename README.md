@@ -5,3 +5,6 @@
 ## Navigating the curriculum org
 
 ## Using the lesson repos
+
+![state: not ready](https://img.shields.io/badge/status-not%20ready-red.svg)
+![state: not ready](https://img.shields.io/badge/status-not%20ready-red.svg)
