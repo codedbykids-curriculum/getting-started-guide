@@ -6,5 +6,6 @@
 
 ## Using the lesson repos
 
-![state: not ready](https://img.shields.io/badge/status-not%20ready-red.svg)
+![state: not ready](https://img.shields.io/badge/status-not%20ready-yellow.svg)
 ![state: ready](https://img.shields.io/badge/status-ready-green.svg)
+![state: deprecated](https://img.shields.io/badge/status-deprecated-red.svg)
