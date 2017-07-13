@@ -8,7 +8,7 @@ Repositories in the curriculum guide are divided into 4 categories:
   1. Guides - Guide repos start with the word "guide" and provide instructors with basic information and guidance about a specific topic or aspect of the curriculum resources. What the guide relates to will be in the repo name.
   2. Lessons - Lessons
   3. Assessments - Assessments
-  4. Deprecated Resources - Deprecated resources
+  4. Deprecated Resources - Deprecated resources
 
 ## Using the lesson repos
 
