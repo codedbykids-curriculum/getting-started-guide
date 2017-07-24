@@ -26,6 +26,8 @@ Each PROJECTGUIDE.md file has a status badge near the top of the file.
 
 ![state: experimental](https://img.shields.io/badge/status-experimental-orange.svg) - The experimental badge is used for repos that are complete, but are being used to test concepts. The concepts in experimental repos may not ever make it into general classroom use. These repos should not be used as regular projects for students during the normal class process. These repos should only be used to test the specific experimental concepts in the project guide.
 
-![state: ready](https://img.shields.io/badge/status-ready-green.svg) - 
-![state: brainstorming](https://img.shields.io/badge/status-brainstorming-lightgrey.svg)
-![state: deprecated](https://img.shields.io/badge/status-deprecated-red.svg)
+![state: ready](https://img.shields.io/badge/status-ready-green.svg) - The ready badge is used for repos that are complete and ready to be used with students in the normal class process.
+
+![state: brainstorming](https://img.shields.io/badge/status-brainstorming-lightgrey.svg) - The brainstorming badge is used for repos that can be started by any instructor and may at some point be structured into an experimental repo. Brainstorming repos are for instructors to dump ideas they may have to add to, improve upon, remove from, or create new projects.
+
+![state: deprecated](https://img.shields.io/badge/status-deprecated-red.svg) - 
