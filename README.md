@@ -30,4 +30,4 @@ Each PROJECTGUIDE.md file has a status badge near the top of the file.
 
 ![state: brainstorming](https://img.shields.io/badge/status-brainstorming-lightgrey.svg) - The brainstorming badge is used for repos that can be started by any instructor and may at some point be structured into an experimental repo. Brainstorming repos are for instructors to dump ideas they may have to add to, improve upon, remove from, or create new projects.
 
-![state: deprecated](https://img.shields.io/badge/status-deprecated-red.svg) - 
+![state: deprecated](https://img.shields.io/badge/status-deprecated-red.svg) - The deprecated badge is used for repos that should no longer be used, but are kept in the curriculum organization for reference and historical purposes.
