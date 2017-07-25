@@ -1,5 +1,5 @@
 # Getting Started Guide
-
+ 
 ## Using this guide
 This guide provides instructors with an overview of important concepts related to the CbK curriculum org and the repositories within it. This guide should be the starting point for instrucotrs who are looking for guidance on how to use the curriculum org, what curriculum resources are in it and how to use them. This guide is not meant to provide instructors wih detailed curriculum information or procedure guidance.
 
